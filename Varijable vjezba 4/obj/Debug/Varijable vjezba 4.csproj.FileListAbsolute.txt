@@ -1,0 +1,7 @@
+D:\VISUAL STUDIO PROJEKTI\Varijable vjezba 4\Varijable vjezba 4\bin\Debug\Varijable vjezba 4.exe.config
+D:\VISUAL STUDIO PROJEKTI\Varijable vjezba 4\Varijable vjezba 4\bin\Debug\Varijable vjezba 4.exe
+D:\VISUAL STUDIO PROJEKTI\Varijable vjezba 4\Varijable vjezba 4\bin\Debug\Varijable vjezba 4.pdb
+D:\VISUAL STUDIO PROJEKTI\Varijable vjezba 4\Varijable vjezba 4\obj\Debug\Varijable vjezba 4.csprojAssemblyReference.cache
+D:\VISUAL STUDIO PROJEKTI\Varijable vjezba 4\Varijable vjezba 4\obj\Debug\Varijable vjezba 4.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJEKTI\Varijable vjezba 4\Varijable vjezba 4\obj\Debug\Varijable vjezba 4.exe
+D:\VISUAL STUDIO PROJEKTI\Varijable vjezba 4\Varijable vjezba 4\obj\Debug\Varijable vjezba 4.pdb
